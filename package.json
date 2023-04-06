@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "packageManager": "yarn@3.5.0",
+  "description": "",
+  "version": "1.0.0",
+  "main": "dua.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.4",
+    "react": "^18.2.0"
+  }
+}
